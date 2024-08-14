@@ -1,0 +1,8 @@
+br.com.dti.poc.shared-pngs-0 /Users/dtidigital/AndroidStudioProjects/poc/shared/build/generated/res/pngs/release
+br.com.dti.poc.shared-resValues-1 /Users/dtidigital/AndroidStudioProjects/poc/shared/build/generated/res/resValues/release
+br.com.dti.poc.shared-mergeReleaseResources-2 /Users/dtidigital/AndroidStudioProjects/poc/shared/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+br.com.dti.poc.shared-mergeReleaseResources-3 /Users/dtidigital/AndroidStudioProjects/poc/shared/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+br.com.dti.poc.shared-release-4 /Users/dtidigital/AndroidStudioProjects/poc/shared/build/intermediates/merged_res/release/mergeReleaseResources
+br.com.dti.poc.shared-androidMain-5 /Users/dtidigital/AndroidStudioProjects/poc/shared/src/androidMain/res
+br.com.dti.poc.shared-main-6 /Users/dtidigital/AndroidStudioProjects/poc/shared/src/main/res
+br.com.dti.poc.shared-release-7 /Users/dtidigital/AndroidStudioProjects/poc/shared/src/release/res
